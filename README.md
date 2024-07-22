@@ -12,9 +12,6 @@
 </p>
 <div>
   <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=rhynarukami&show_icons=true&hide_rank=false&border_color=ffffff&theme=dark" />
-    </a>
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com/?user=rhynarukami&theme=dark"/>
     </a>
