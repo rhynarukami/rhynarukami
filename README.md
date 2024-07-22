@@ -1,6 +1,6 @@
 <p>
   Junior Software Engineer with a passion for learning and problem-solving.
-  Ongoing to get a Bachelor's degree in Informatics.
+  Ongoing to get a Bachelor's degree in Informatics. you can reach me on :
 </p>
 <p>
   <a target="_blank" href="mailto:rhy159753@gmail.com">
