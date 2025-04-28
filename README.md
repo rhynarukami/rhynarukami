@@ -1,6 +1,6 @@
 <p align="center">
-  Junior Software Engineer with a passion for learning and problem-solving.<br/>
-  Ongoing to get a Bachelor's degree in Informatics. you can reach me on :
+  Psstt.<br/>
+  Can reach me on :
 </p>
 <p align="center">
   <a target="_blank" href="mailto:rhy159753@gmail.com">
@@ -12,12 +12,15 @@
 </p>
 <div>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhynarukami&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=rhynarukami&show_icons=true&hide_rank=false&border_color=ffffff&theme=prussian"/>
+    </a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com/?user=rhynarukami&theme=prussian"/>
+    </a>
   </p>
   <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=rhynarukami&theme=codeSTACKr"/>
-    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rhynarukami&layout=compact&langs_count=10&border_color=ffffff&theme=prussian"/>
   </p>
 </div>
 <!--
