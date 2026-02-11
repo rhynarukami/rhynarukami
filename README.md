@@ -3,7 +3,7 @@
   Can reach me on :
 </p>
 <p align="center">
-  <a target="_blank" href="mailto:rhy159753@gmail.com">
+  <a target="_blank" href="mailto:stunggar1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target="_blank" href="https://www.linkedin.com/in/muhammad-rizal-28339b191/">
